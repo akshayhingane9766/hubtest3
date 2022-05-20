@@ -1,0 +1,7 @@
+D:\Pratice Exercise\Week6 Day2(EX1)\Week6 Day2(EX1)\obj\Debug\Week6 Day2(EX1).csproj.AssemblyReference.cache
+D:\Pratice Exercise\Week6 Day2(EX1)\Week6 Day2(EX1)\obj\Debug\Week6 Day2(EX1).csproj.CoreCompileInputs.cache
+D:\Pratice Exercise\Week6 Day2(EX1)\Week6 Day2(EX1)\bin\Debug\Week6 Day2(EX1).exe.config
+D:\Pratice Exercise\Week6 Day2(EX1)\Week6 Day2(EX1)\bin\Debug\Week6 Day2(EX1).exe
+D:\Pratice Exercise\Week6 Day2(EX1)\Week6 Day2(EX1)\bin\Debug\Week6 Day2(EX1).pdb
+D:\Pratice Exercise\Week6 Day2(EX1)\Week6 Day2(EX1)\obj\Debug\Week6 Day2(EX1).exe
+D:\Pratice Exercise\Week6 Day2(EX1)\Week6 Day2(EX1)\obj\Debug\Week6 Day2(EX1).pdb
